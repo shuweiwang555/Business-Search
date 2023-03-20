@@ -1,0 +1,84 @@
+/* Application-wide Styles */
+/* * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+#photo1 {
+    /* border: 2px solid rgb(85, 81, 81); */
+    position: fixed;
+    top: 0;
+    background-image: url('../../hm8/images/city.jpg');
+    /* background-position: -550px bottom; */
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    /* padding: 10px; */
+    left: 0;
+    background-size: 120% cover;
+    height: 100%;
+    width: 100%;
+    opacity: 0.8;
+    z-index: -3;
+}
+
+#backphoto {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(#fff, #0007e9);
+    z-index: -4;
+    opacity: 0.3;
+}
+
+/* 
+h1 {
+    color: #369;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+    margin: 0;
+}
+
+h2,
+h3 {
+    color: #444;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+
+} */
+
+/* body {
+    margin: 0;
+} */
+
+/* body,
+input[type="text"],
+button {
+    color: #333;
+    font-family: Cambria, Georgia, serif;
+} */
+
+
+/* button:hover {
+    background-color: black;
+    color: white;
+}
+
+button:disabled {
+    background-color: #eee;
+    color: #aaa;
+    cursor: auto;
+} */
+
+/* everywhere else */
+/* * {
+    font-family: Arial, Helvetica, sans-serif;
+} */
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
