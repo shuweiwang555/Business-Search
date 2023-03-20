@@ -1,5 +1,7 @@
 # Quickstart for Node.js in the App Engine standard environment
 
+<p align="center"><img src="images/1.jpg" alt="example" width="500" /></p>
+
 This is the sample application for the
 [Quickstart for Node.js in the App Engine standard environment][tutorial]
 tutorial found in the [Google App Engine Node.js standard environment][appengine]
